@@ -20,6 +20,7 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/VladimirSmetana/LeetCode/tree/master/0202-happy-number) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/VladimirSmetana/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Math
 |  |
 | ------- |
@@ -33,8 +34,21 @@
 |  |
 | ------- |
 | [2232-adding-spaces-to-a-string](https://github.com/VladimirSmetana/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/VladimirSmetana/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Simulation
 |  |
 | ------- |
 | [2232-adding-spaces-to-a-string](https://github.com/VladimirSmetana/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
+## Binary Search
+|  |
+| ------- |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/VladimirSmetana/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+## Greedy
+|  |
+| ------- |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/VladimirSmetana/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+## Sorting
+|  |
+| ------- |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/VladimirSmetana/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 <!---LeetCode Topics End-->
